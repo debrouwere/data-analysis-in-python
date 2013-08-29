@@ -1,0 +1,4 @@
+meta
+*.pyc
+.DS_Store
+env
